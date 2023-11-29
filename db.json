@@ -1,0 +1,358 @@
+{
+  "users": [
+    {
+      "firstname": "Malavika",
+      "lastname": "Venugopal",
+      "email": "malavikavenu914@gmail.com",
+      "password": "malu1234",
+      "confirmpassword": "malu1234",
+      "id": 1
+    }
+  ],
+  "books": [
+   
+    {
+      "bname": "Ugly Love",
+      "description": "From Colleen Hoover, the #1 New York Times bestselling author of It Starts with Us and It Ends with Us, a heart-wrenching love story that proves attraction at first sight can be messy.\n\nWhen Tate Collins meets airline pilot Miles Archer, she doesn't think it's love at first sight. They wouldn't even go so far as to consider themselves friends. The only thing Tate and Miles have in common is an undeniable mutual attraction. Once their desires are out in the open, they realize they have the perfect set-up. He doesn't want love, she doesn't have time for love, so that just leaves the sex. Their arrangement could be surprisingly seamless, as long as Tate can stick to the only two rules Miles has for her.",
+      "author": "Saranya Umakanthan ",
+      "amount": "274",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "336",
+      "url": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/188/9781476753188.jpg",
+      "id": 41
+    },
+    {
+      "bname": "Red, White & Royal Blue ",
+      "description": "When his mother became President, Alex Claremont-Diaz was promptly cast as the American equivalent of a young royal. Handsome, charismatic, genius--his image is pure millennial-marketing gold for the White House. There's only one problem: Alex has a beef with the actual prince, Henry, across the pond. And when the tabloids get hold of a photo involving an Alex-Henry altercation, U.S./British relations take a turn for the worse.\n\nHeads of family, state, and other handlers devise a plan for damage control: staging a truce between the two rivals. What at first begins as a fake, Instragramable friendship grows deeper, and more dangerous, than either Alex or Henry could have imagined. Soon Alex finds himself hurtling into a secret romance with a surprisingly unstuffy Henry that could derail the campaign and upend two nations and begs the question: Can love save the world after all? Where do we find the courage, and the power, to be the people we are meant to be? And how can we learn to let our true colors shine through? Casey McQuiston's Red, White & Royal Blue proves: true love isn't always diplomatic.",
+      "author": "Atria Books",
+      "amount": "655",
+      "category": "Award Winners",
+      "lang": "English",
+      "pages": "448",
+      "url": "https://www.bookswagon.com/productimages/images200/776/9781250316776.jpg",
+      "id": 42
+    },
+    {
+      "bname": "The Magic of the Lost Temple",
+      "description": "Discover the magic of the lost temple Are you a curious reader, ready to explore the depths of the magic hidden in the lost temple of Karnataka? Are you ready to join Nooni as she travels around to discover the answers to her questions? If yes, then this book, 'The Magic of the Lost Temple' is a must have. Nooni is a city girl who is very surprised at the unexpected pace of life in her grandparent?s village in the state of Karnataka. Not being fazed with the turn of events, she engages herself in many of the odd jobs that are available in the village. She resorts to doing work like Papad making, organising enjoyable picnics, learning to ride a cycle and a long list of activities with her new found friends. Join Nooni as things get complex and she discovers something really exciting Things get far from exciting when Nooni comes across a very ancient stepwell that is located right in the middle of a forest. As she tries to discover the mystery behind this well, the story takes a drastic turn when she unravels things she didn't envisage before. Join Nooni as she unfolds the secrets linked to this stepwell along with her friends as they bask in the experience of a lifetime. Unfold the secrets hidden in the forest Join the very curious character of Nooni as she unfolds the mystery behind the stepwell. Her incessant urge to abstracting information is what leads her on this adventure. This much awaited book by Sudha Murty is indeed a heart-warming read. About the Author Sudha Murty is an honourable trustee of the Infosys Foundation USA and also acts as a chairperson of the highly reputed Infosys Foundation. She fulfilled her graduation from the Indian Institute of Science located in Bangalore, with a degree in Electrical Engineering. Her career began with TELCO where she worked as a development engineer. She has also been associated with the Bangalore University where she was a teacher of Computer Science. She is a credible writer in both English and Kannada. A columnist for Kannada and English dailies, she has over 156 titles and 24 books in her repertoire which includes non-fiction, novels, technical books, memoirs and travelogues. The Government of India has honored her with the coveted Padma Shri Award. She has also received 7 honorary doctorates from several universities in the country. The book is available online for convenient shopping. You can bag this book from A today by following a few easy steps.",
+      "author": "Sudha Murty",
+      "amount": "499",
+      "category": "Anime Comics",
+      "lang": "English",
+      "pages": "249",
+      "url": "https://99bookstores.com/cdn/shop/files/cd349c1b-25e6-4e6e-8830-c55fdf1d143d.jpg?v=1698341121&width=823",
+      "id": 43
+    },
+    {
+      "bname": "Iron Flame",
+      "description": "The second book in the Empyrean series. Violet Sorrengail’s next round of training might require her to betray the man she loves.",
+      "author": "Rebecca Yarros",
+      "amount": "299",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "250",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781649374172.jpg",
+      "id": 44
+    },
+    {
+      "bname": " Resurrection Walk",
+      "description": "The seventh book in the Lincoln Lawyer series. Haller and Bosch team up to prove the innocence of a woman in prison for killing her husband.",
+      "author": "Michael Connelly",
+      "amount": "199",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "235",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780316563765.jpg",
+      "id": 45
+    },
+    {
+      "bname": "The Exchange",
+      "description": "In a sequel to “The Firm,” Mitch McDeere, who is now a partner at the world’s largest law firm, gets caught up in a sinister plot.",
+      "author": "John Grisham",
+      "amount": "150",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "190",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780385548953.jpg",
+      "id": 46
+    },
+    {
+      "bname": "Bookshops & Bonedust",
+      "description": "In a prequel to “Legends & Lattes,\" an orc who was hurt during a battle winds up in a sleepy beach town called Murk.",
+      "author": "Travis Baldree",
+      "amount": "290",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "120",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781250886101.jpg",
+      "id": 47
+    },
+    {
+      "bname": "The Secret",
+      "description": "The 28th book in the Jack Reacher series. It’s 1992 and Reacher looks into the cause of a string of mysterious deaths.",
+      "author": "by Lee Child and Andrew Child",
+      "amount": "399",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "290",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781984818584.jpg",
+      "id": 48
+    },
+    {
+      "bname": "Dirty Thirty",
+      "description": "The 30th book in the Stephanie Plum series. Plum tracks a local jeweler’s former security guard and has an overnight stakeout with relatives.",
+      "author": " Janet Evanovich",
+      "amount": "230",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "135",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781668003091.jpg",
+      "id": 49
+    },
+    {
+      "bname": "Lessons in Chemistry",
+      "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+      "author": "Bonnie Garmus",
+      "amount": "120",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "290",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+      "id": 50
+    },
+    {
+      "bname": "Love Redesigned",
+      "description": "An interior designer and a billionaire who were childhood rivals have an attraction to each other.",
+      "author": " Lauren Asher",
+      "amount": "320",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "200",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781728292137.jpg",
+      "id": 51
+    },
+    {
+      "bname": "IceBreaker",
+      "description": "Anastasia might need the help of the captain of a college hockey team to get on the Olympic figure skating team.",
+      "author": "Hannah Grace",
+      "amount": "200",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "190",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781668026038.jpg",
+      "id": 52
+    },
+    {
+      "bname": "My name is barbra",
+      "description": "The EGOT winner chronicles her journey in show business and reveals details about some of her personal relationships.",
+      "author": " Barbra Streisand",
+      "amount": "129",
+      "category": "Award Winners",
+      "lang": "English",
+      "pages": "345",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780525429524.jpg",
+      "id": 53
+    },
+    {
+      "bname": "My Effin' Life",
+      "description": "The musician known for his work with the band Rush chronicles his life as the child of Holocaust survivors and his time in the limelight.",
+      "author": "Geddy Lee with Daniel Richler",
+      "amount": "340",
+      "category": "Award Winners",
+      "lang": "English",
+      "pages": "245",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780063159419.jpg",
+      "id": 54
+    },
+    {
+      "bname": "Ghosts of Honolulu",
+      "description": "The story of a Japanese American naval intelligence agent, a Japanese spy and events in Hawaii before the start of World War II.",
+      "author": " Mark Harmon and Leon Carroll Jr.",
+      "amount": "590",
+      "category": "Award Winners",
+      "lang": "English",
+      "pages": "345",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780593473986.jpg",
+      "id": 55
+    },
+    {
+      "bname": "Prequel",
+      "description": "The MSNBC host and co-author of “Bag Man” details a campaign to overthrow the U.S. government and install authoritarian rule prior to and during our involvement in World War II.",
+      "author": "Rachel Maddow",
+      "amount": "245",
+      "category": "Award Winners",
+      "lang": "English",
+      "pages": "145",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780593444511.jpg",
+      "id": 56
+    },
+    {
+      "bname": "The Wager",
+      "description": "The survivors of a shipwrecked British vessel on a secret mission during an imperial war with Spain have different accounts of events.",
+      "author": "David Grann",
+      "amount": "235",
+      "category": "Award Winners",
+      "lang": "English",
+      "pages": "145",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780385534260.jpg",
+      "id": 57
+    },
+    {
+      "bname": "Elon Musk",
+      "description": "The author of “The Code Breaker” traces Musk’s life and summarizes his work on electric vehicles, private space exploration and artificial intelligence.",
+      "author": "Walter Isaacson",
+      "amount": "300",
+      "category": "Best Sellers",
+      "lang": "English",
+      "pages": "250",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781982181284.jpg",
+      "id": 58
+    },
+    {
+      "bname": "Being Henry",
+      "description": "The Emmy Award-winning actor shares how playing roles such as the Fonz and his struggles with dyslexia affected his life.",
+      "author": "Henry Winkler with James Kaplan",
+      "amount": "345",
+      "category": "Best Sellers",
+      "lang": "English",
+      "pages": "245",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781250888099.jpg",
+      "id": 59
+    },
+    {
+      "bname": "Unwoke",
+      "description": "The Republican senator from Texas shares his opinions on an assortment of American institutions.",
+      "author": "Ted Cruz",
+      "amount": "1245",
+      "category": "Best Sellers",
+      "lang": "English",
+      "pages": "650",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781684513628.jpg",
+      "id": 60
+    },
+    {
+      "bname": "OUTLIVE",
+      "description": "A look at recent scientific research on aging and longevity.",
+      "author": "Peter Attia with Bill Gifford",
+      "amount": "350",
+      "category": "Best Sellers",
+      "lang": "English",
+      "pages": "456",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+      "id": 61
+    },
+    {
+      "bname": "Palestine",
+      "description": "An account of the history of settler colonialism and resistance, based on untapped archival materials and reports.",
+      "author": "Rashid Khalidi",
+      "amount": "450",
+      "category": "Award Winners",
+      "lang": "English",
+      "pages": "234",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781250787651.jpg",
+      "id": 62
+    },
+    {
+      "bname": "The Story Teller",
+      "description": "A memoir by the musician known for his work with Foo Fighters and Nirvana",
+      "author": " Dave Grohl",
+      "amount": "234",
+      "category": "Award Winners",
+      "lang": "English",
+      "pages": "134",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780063076099.jpg",
+      "id": 63
+    },
+    {
+      "bname": "Israel",
+      "description": "A chronological timeline of the country and personal anecdotes by the author.",
+      "author": "Noa Tishby",
+      "amount": "125",
+      "category": "Award Winners",
+      "lang": "English",
+      "pages": "345",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781982144944.jpg",
+      "id": 64
+    },
+    {
+      "bname": "All About Love",
+      "description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+      "author": "bell hooks",
+      "amount": "450",
+      "category": "Anime Comics",
+      "lang": "English",
+      "pages": "350",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+      "id": 65
+    },
+    {
+      "bname": "Crying in H Mart",
+      "description": "The daughter of a Korean mother and Jewish American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+      "author": " Michelle Zauner",
+      "amount": "459",
+      "category": "Anime Comics",
+      "lang": "English",
+      "pages": "389",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+      "id": 66
+    },
+    {
+      "bname": "Wonder",
+      "description": "A boy with a facial deformity starts schools",
+      "author": "R.J Palacio",
+      "amount": "299",
+      "category": "Anime Comics",
+      "lang": "English",
+      "pages": "340",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780375899881.jpg",
+      "id": 67
+    },
+    {
+      "bname": "Odder",
+      "description": "After a shark attack, Odder recuperates at the aquarium with the scientists who raised her.",
+      "author": " Katherine Applegate",
+      "amount": "450",
+      "category": "Anime Comics",
+      "lang": "English",
+      "pages": "234",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781250147424.jpg",
+      "id": 68
+    },
+    {
+      "bname": "Just Because",
+      "description": "Wisdom about life’s contradictions.",
+      "author": "Matthew McConaughey",
+      "amount": "79",
+      "category": "Anime Comics",
+      "lang": "English",
+      "pages": "340",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780593622032.jpg",
+      "id": 69
+    }
+  ],
+  "wishlist": [
+    {
+      "bname": "Ugly Love",
+      "amount": "274",
+      "url": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/188/9781476753188.jpg",
+      "author": "Saranya Umakanthan ",
+      "id": 1
+    },
+    {
+      "bname": "It Ends with Us",
+      "amount": "345",
+      "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618526890i/13335037.jpg",
+      "author": "Atria Books",
+      "id": 2
+    },
+    {
+      "bname": "The Magic of the Lost Temple",
+      "amount": "499",
+      "url": "https://99bookstores.com/cdn/shop/files/cd349c1b-25e6-4e6e-8830-c55fdf1d143d.jpg?v=1698341121&width=823",
+      "author": "Sudha Murty",
+      "id": 3
+    }
+  ],
+  "cart": []
+}
